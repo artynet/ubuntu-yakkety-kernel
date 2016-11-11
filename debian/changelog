@@ -1,4 +1,4 @@
-zfcpdump-kernel (4.8-0ubuntu3) yakkety; urgency=low
+zfcpdump-kernel (4.8-0ubuntu3~apw3) yakkety; urgency=low
 
   * Move to a sourcefull source package to ensure we have the exact source
     used to build this kernel.

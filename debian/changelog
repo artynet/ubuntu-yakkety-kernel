@@ -1,3 +1,10 @@
+zfcpdump-kernel (4.8-0ubuntu3) yakkety; urgency=low
+
+  * Move to a sourcefull source package to ensure we have the exact source
+    used to build this kernel.
+
+ -- Andy Whitcroft <apw@ubuntu.com>  Fri, 11 Nov 2016 12:52:50 +0000
+
 zfcpdump-kernel (4.8-0ubuntu2) yakkety; urgency=low
 
   * Paper over broken header with CONFIG_SECURITYFS=n introduced
